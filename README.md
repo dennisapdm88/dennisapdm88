@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=.NET+%7C+Node.js;Angular+%7C+React;AWS+Cloud+Achitecture;AI+Agents+%7C+MCP+Server+%7C+Semantic+Kernel;RAG+Systems+%7C+Scalable+Architecture)](https://github.com/Dennis-Pitadeniya)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=1100&lines=Angular+%7C+React;.Net+%7C+Nodejs;SQL+%7C+No+SQL+DBs;AWS+Cloud;Docker;Copilot+%7C+LLM+%7C+Semantic+kernel+%7C+RAG+%7C+Agents;GIT+Lab+%7C+Git+Hub+%7C+Azure+DevOps;Microservice+%7C+Monolithic+architecture;Event-driven+%7C+CQRS+architecture)](https://github.com/Dennis-Pitadeniya)
 
 
 </div>
