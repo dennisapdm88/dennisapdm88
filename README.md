@@ -26,6 +26,7 @@ I build reliable software by combining clean architecture, scalable services, an
 - Node.js
 - Scalable microservice architecture
 - Event-driven architecture
+- Clean achitecture
 
 ### Frontend
 
@@ -43,6 +44,7 @@ I build reliable software by combining clean architecture, scalable services, an
 
 - AWS Cloud
 - Docker
+- GitLab CI/CD
 
 ### AI And Agent Engineering
 
