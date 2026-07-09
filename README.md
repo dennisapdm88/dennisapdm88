@@ -1,4 +1,4 @@
-# 👋 Hi i'm Dennis Pitadeniya!!!
+# 👋 Hi,  i'm Dennis Pitadeniya!!!
 
 <div align="center">
 
