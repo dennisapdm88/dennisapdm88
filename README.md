@@ -1,4 +1,4 @@
-# Hi i'm Dennis !!!
+# 👋 Hi i'm Dennis Pitadeniya!!!
 
 <div align="center">
 
@@ -9,9 +9,9 @@
 
 ---
 
-Full-stack and backend-focused engineer with strong experience in cloud-native systems, enterprise databases, and modern AI application patterns.
+With over a decade of experience across the Finance and Brokerage sectors, I specialize in architecting and building high-throughput, mission-critical systems. My expertise lies in designing resilient microservices and event-driven architectures that scale effortlessly under heavy enterprise workloads.
 
-I build reliable software by combining clean architecture, scalable services, and practical AI integration.
+I bridge the gap between robust backend engineering and modern innovation by integrating enterprise databases with scalable, practical AI patterns to solve real-world business challenges. I am passionate about writing clean, reliable code and transforming complex financial requirements into secure, cloud-native software.
 
 ## Professional Experience
 
