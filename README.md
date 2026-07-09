@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=.NET+%7C+Node.js+Engineer;Angular+%7C+React;AWS+Cloud+%7C+Docker;AI+Agents+%7C+MCP+Server+%7C+Semantic+Kernel;RAG+Systems+%7C+Scalable+Architecture)](https://github.com/Dennis-Pitadeniya)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=.NET+%7C+Node.js+Engineer;Angular+%7C+React;AWS+Cloud+Achitecture;AI+Agents+%7C+MCP+Server+%7C+Semantic+Kernel;RAG+Systems+%7C+Scalable+Architecture)](https://github.com/Dennis-Pitadeniya)
 
 
 </div>
@@ -44,7 +44,7 @@ I build reliable software by combining clean architecture, scalable services, an
 
 - AWS Cloud
 - Docker
-- GitLab CI/CD
+- GitLab CI/CD      
 
 ### AI And Agent Engineering
 
